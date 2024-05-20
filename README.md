@@ -12,4 +12,4 @@ meu nome e Diogo Coutinho Bento
 
 @di_ddsz18
 
-[]!(https://media1.tenor.com/m/QucQs1Ilf5sAAAAC/dog-cachorro-black-banho.gif)
+![](https://media1.tenor.com/m/QucQs1Ilf5sAAAAC/dog-cachorro-black-banho.gif)
