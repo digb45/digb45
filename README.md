@@ -1,16 +1,15 @@
-### Hi there 👋
+### Eae suave so paz👋
 
-<!--
-**digb45/digb45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Diogo Coutinho Bento
 
-Here are some ideas to get you started:
+-Estou estudando na [alura](https://www.alura.com.br)
+-Estou entediado apredendo programação
+-usando esse espaço para me desenvolver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar en contato comigo
+
+00001098111825SP@al.educacao.sp.gov.br
+
+@di_ddsz18
+
+[]!(https://media1.tenor.com/m/QucQs1Ilf5sAAAAC/dog-cachorro-black-banho.gif)
